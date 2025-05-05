@@ -1,3 +1,5 @@
 .env
 try*
 tests/
+processed/*
+scraped/*
